@@ -1,0 +1,29 @@
+_repo: Cornish-Catchesand-Other-Verses_38565
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, Bernard
+    alias: Hunt, Samuel Syrus
+    birthdate: 1873
+    gutenberg_agent_id: '39534'
+    url: http://www.gutenberg.org/2009/agents/39534
+description: ''
+gutenberg_issued: '2012-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38565'
+  lccn: '52058902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dialect poetry, English -- England -- Cornwall (County)'
+- !lcsh 'English poetry'
+- !lcsh 'Cornwall (England : County) -- Poetry'
+- !lcc 'PR'
+title: Cornish Catches, and Other Verses
+url: http://www.gutenberg.org/ebooks/38565
